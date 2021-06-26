@@ -1,0 +1,53 @@
+    h3{
+        font-size: 25px !important;
+    }
+    
+    canvas{
+        animation-name: example;
+        animation-duration: 4s;
+        animation-iteration-count: infinite;
+    }
+    @keyframes example{
+        from {box-shadow: 1px 1px 38px red;}
+        to {box-shadow: 1px 1px 38px yellow;}
+    }
+    .home_heading{
+        width: 100%;
+        height: 150px;
+        margin: 0px;
+        font-size: 50px;
+        padding-top: 30px;
+    }
+    .container{
+        width: 100%;
+        height: 100px;
+    }
+    .chasma{
+        margin-left: 0;
+        height: 60px;
+        margin-top: 25px;
+    }
+    .moustache{
+        margin-left: 30%;
+        height: 70px;
+        margin-top: 5px;
+    }
+    .crown{
+        margin-left: 30%;
+        height: 60px;
+        margin-top: 25px;
+    }
+    body{
+        background-size: cover;
+        background-position: center;
+    }
+    .home{
+        
+        
+        height: 30px;
+        height: 30px;
+    }
+    .chasma_heading{
+        margin: 0px;
+        margin-left: 20px;
+    }
